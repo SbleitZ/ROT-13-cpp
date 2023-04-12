@@ -15,4 +15,4 @@ Antes: El mensaje que quieras
 Despues: ry zrafnwr dhr dhvrenf
 ```
 ### Adicionales
-- Si quieres que el mensaje no sea enviado por consola sigue las instrucciones que estan en la linea 5 y 6
+- Si quieres que el mensaje no sea enviado por comando sigue las instrucciones que estan en la linea 5 y 6
